@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**KenjiRana/Kuns_** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+http://1
+t.m/Kuns_bot 
 
 Here are some ideas to get you started:
 
